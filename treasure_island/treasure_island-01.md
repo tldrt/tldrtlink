@@ -4,7 +4,7 @@ lang: english
 longtitle: true
 title: The Old Sea-dog at the Admiral Benbow
 author: Robert Louis Stevenson
-description: Treasure Island - PART ONE - The Old Buccaneer
+description: "Treasure Island - PART ONE : The Old Buccaneer - Chapter 1"
 attribution: >
     Text and chapter head illustration taken from \textsc{The Project Gutenberg EBook of Treasure Island}.
 epigraph: >
